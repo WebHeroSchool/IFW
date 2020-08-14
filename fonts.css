@@ -3,7 +3,7 @@
   src: url("fonts/montserrat-regular-webfont.woff") format("woff");
   src: url("fonts/montserrat-regular-webfont.woff2") format("woff2");
   font-weight: normal;
-  font-style: normal; 
+  font-style: normal;
 }
 
 @font-face {
@@ -11,7 +11,7 @@
   src: url("fonts/montserrat-medium-webfont.woff") format("woff");
   src: url("fonts/montserrat-medium-webfont.woff2") format("woff2");
   font-weight: 500;
-  font-style: normal; 
+  font-style: normal;
 }
 
 @font-face {
@@ -19,7 +19,7 @@
   src: url("fonts/montserrat-semibold-webfont.woff") format("woff");
   src: url("fonts/montserrat-semibold-webfont.woff2") format("woff2");
   font-weight: 600;
-  font-style: normal; 
+  font-style: normal;
 }
 
 @font-face {
@@ -27,4 +27,6 @@
   src: url("fonts/montserrat-bold-webfont.woff") format("woff");
   src: url("montserrat-bold-webfont.woff2") format("woff2");
   font-weight: bold;
-  font-style: normal; }
+  font-style: normal;
+}
+/n
