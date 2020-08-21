@@ -1,15 +1,15 @@
-body { 
-  background: #FFF;
+body {
+  background: #fff;
   font-family: "Montserrat", serif;
   height: 2700px;
   width: 1440px;
 }
 
 .wordmarksmall {
-  /*height: 51px;*/
- /* margin-right: 1231px;
-  margin-bottom: 2625px;*/
-  /*width: 166px;*/
+  /* height: 51px; 
+  margin-right: 1231px;
+  margin-bottom: 2625px; 
+  width: 166px; */
 }
 
 a { text-decoration: none; }
@@ -78,7 +78,7 @@ a { text-decoration: none; }
   top: 40px;
 }
 
-.nav__link:hover{
+.nav__link:hover {
   color: #f00;
   text-decoration: underline;
 }
@@ -101,21 +101,21 @@ a { text-decoration: none; }
   top: 233px;
 }
 
-/*.first-images__logo {
+/* .first-images__logo {
   width: 1514px;
   height: 467px;
   left: -74px;
   top: 134px;
   background-image: url(images/sectionone/wordmark.png);
   opacity: 0.1;
-}*/
+} */
 
-/*.time__speedometer {
+/* .time__speedometer {
   left: 367px;
   top: 767px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   transform: matrix(-1, 0, 0, 1, 0, 0);
-}*/
+} */
 
 .time__two-point-seven {
   color: #000;
@@ -183,10 +183,10 @@ a { text-decoration: none; }
 }
 
 .order-first {
-  background-color: #FFF;
-  border: 2px solid #E51937;
+  background-color: #fff;
+  border: 2px solid #e51937;
   box-sizing: border-box;
-  color: #E51937;
+  color: #e51937;
   font-size: 13px;
   font-weight: bold;
   height: 40px;
@@ -197,3 +197,4 @@ a { text-decoration: none; }
   top: 776px;
   width: 160px;
 }
+\n
