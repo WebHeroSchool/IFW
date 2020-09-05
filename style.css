@@ -21,7 +21,7 @@ body {
   width: 1140px;
 }
 
-.nav__link { 
+.nav__link {
   color: #000;
   font-size: 15px;
   font-weight: 600;
@@ -74,7 +74,7 @@ body {
   width: 1514px;
 }
 
-.down{
+.down {
   height: 14px;
   margin-top: 121px;
   width: 28px;
@@ -114,17 +114,17 @@ body {
   display: flex;
   margin-left: 321px;
   margin-right: 321px;
-  /*margin-top: 154px;*/
+  /* margin-top: 154px; */
 }
 
 .time__speedometer {
-  /*margin-bottom: 1899px;*/
-  /*margin-left: 321px;
-  margin-right: 14px;*/
+  /* margin-bottom: 1899px; */
+  /* margin-left: 321px; */
+  /* margin-right: 14px; */
   margin-top: 166px;
   padding-right: 14px;
-  /*box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  transform: matrix(-1, 0, 0, 1, 0, 0);*/
+  /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
+  /* transform: matrix(-1, 0, 0, 1, 0, 0); */
 }
 
 .time__two-point-seven {
@@ -132,7 +132,7 @@ body {
   font-weight: 600;
   font-size: 35px;
   line-height: 43px;
-  /*margin-right: 1008px;*/
+  /* margin-right: 1008px; */
   margin-top: 154px;
 }
 
@@ -213,3 +213,4 @@ body {
   margin-top: 248px;
   width: 1548px;
 }
+\n
